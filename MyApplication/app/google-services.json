@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374900786053",
+    "project_id": "momento2cesde",
+    "storage_bucket": "momento2cesde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374900786053:android:1d58ddc344755a4e977aec",
+        "android_client_info": {
+          "package_name": "com.momento2cesde.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374900786053-3cht597g4astlashh5mkglk9v0kb6tle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFd7VIY682oYLnFCHDLZi95ZoBlT4nv3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374900786053-3cht597g4astlashh5mkglk9v0kb6tle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
